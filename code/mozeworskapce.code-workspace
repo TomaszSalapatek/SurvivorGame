@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../audio"
+		},
+		{
+			"path": "../data"
+		},
+		{
+			"path": "../images"
+		},
+		{
+			"path": "."
+		}
+	]
+}
